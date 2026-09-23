@@ -1,0 +1,30 @@
+metric,value
+Initial train rows,25000
+Initial test rows,25000
+Train missing text,0
+Test missing text,0
+Train empty text removed,0
+Test empty text removed,0
+Train duplicates removed,98
+Test duplicates removed,201
+Train-test overlaps removed from test,123
+Remaining train duplicates,0
+Remaining test duplicates,0
+Remaining train-test overlap,0
+Final train rows,24902
+Final test rows,24676
+Train positive reviews,12471
+Train negative reviews,12431
+Test positive reviews,12411
+Test negative reviews,12265
+TF-IDF features,433653
+Training matrix rows,24902
+Training matrix columns,433653
+Testing matrix rows,24676
+Testing matrix columns,433653
+Training non-zero values,7528088
+Testing non-zero values,6921225
+TF-IDF fitted on,Training data only
+Test transformation,Training-fitted vectorizer
+TF-IDF data type,float32 (configured)
+Feature matrix format,Sparse CSR / NPZ
