@@ -1,0 +1,10 @@
+| Technology | Package | Version |
+|---|---|---:|
+| Python | Python | 3.11.x |
+| Pandas | `pandas` | 2.2.3 |
+| NumPy | `numpy` | 2.1.3 |
+| Scikit-learn | `scikit-learn` | 1.6.1 |
+| Streamlit | `streamlit` | 1.41.1 |
+| SQL | `SQLAlchemy` | 2.0.36 |
+| Power BI | Power BI Desktop | Specify installed version separately |
+| GitHub  | Git | Specify installed version separately 
