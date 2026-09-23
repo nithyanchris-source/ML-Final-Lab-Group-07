@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw IMDb dataset - do not commit
+data/raw/*
+data/raw/**
+
+# Raw/temporary processed copies
+data/processed/train_raw.csv
+data/processed/test_raw.csv
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
